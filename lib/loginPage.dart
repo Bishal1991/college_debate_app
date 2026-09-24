@@ -18,17 +18,6 @@ class loginPage extends StatelessWidget {
             padding: EdgeInsets.all(20),
             width: 350,
             height: 350,
-            /*decoration: BoxDecoration(
-              boxShadow: [
-                BoxShadow(
-                  blurRadius: 5.0,
-                  spreadRadius: 3.0,
-                  color: Colors.grey.shade400,
-                ),
-              ],
-              color: Color.fromRGBO(251, 250, 245, 2),
-              borderRadius: BorderRadius.all(Radius.circular(25)),
-            ),*/
             child: Column(
               mainAxisAlignment: MainAxisAlignment.center,
               crossAxisAlignment: CrossAxisAlignment.center,
